@@ -1,0 +1,6 @@
+-project:C:\Users\andrey.baludin.AVENIR\Documents\AL\CDS
+-packagecachepath:C:\Users\andrey.baludin.AVENIR\Documents\AL\CDS\.alpackages
+-serviceuri: <<YOUR CDS ENVIRONMENT URL>>
+-entities:cr78b_box
+-baseid:50140
+-tabletype:CDS

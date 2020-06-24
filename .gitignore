@@ -1,0 +1,7 @@
+*.app
+.vscode
+.alcache
+.altemplates
+permissionsAnalyzer.json
+*.g.xlf
+*.ruleset.json

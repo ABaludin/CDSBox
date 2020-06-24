@@ -1,0 +1,26 @@
+{
+  "id": "d4d62dac-9d83-416c-8ddd-900237f2c385",
+  "name": "CDS demo",
+  "publisher": "Awara IT",
+  "version": "16.1.0.0",
+  "brief": "CDS Integration",
+  "description": "CDS Integration",
+  "privacyStatement": "http://awara-it.com/ru_RU/privacy-policy/",
+  "EULA": "http://awara-it.com/ru_RU/license-agreement/",
+  "help": "http://awara-it.com/en_US/contact-us/",
+  "url": "http://awara-it.com/ru_RU/",
+  "logo": "awara it logo.jpg",
+  "screenshots": [],
+  "platform": "16.0.0.0",
+  "application": "16.1.0.0",
+  "features": ["TranslationFile"],
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "http://awara-it.com/en_US/contact-us/",
+  "showMyCode": true,
+  "runtime": "5.0"
+}

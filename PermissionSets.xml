@@ -1,0 +1,24 @@
+<PermissionSets>
+    <PermissionSet RoleID="CDS BOX" RoleName="CDS Box">
+        <Permission>
+            <ObjectType>TableData</ObjectType>
+            <ObjectID>50140</ObjectID>
+            <ReadPermission>1</ReadPermission>
+            <InsertPermission>1</InsertPermission>
+            <ModifyPermission>1</ModifyPermission>
+            <DeletePermission>1</DeletePermission>
+            <ExecutePermission>1</ExecutePermission>
+            <SecurityFilter />
+        </Permission>       
+        <Permission>
+            <ObjectType>TableData</ObjectType>
+            <ObjectID>50141</ObjectID>
+            <ReadPermission>1</ReadPermission>
+            <InsertPermission>1</InsertPermission>
+            <ModifyPermission>1</ModifyPermission>
+            <DeletePermission>1</DeletePermission>
+            <ExecutePermission>1</ExecutePermission>
+            <SecurityFilter />
+        </Permission>                                      
+    </PermissionSet>
+</PermissionSets>
